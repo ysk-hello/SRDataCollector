@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SRDataCollector": {
+      "commandName": "Project",
+      "commandLineArgs": "create"
+    }
+  }
+}
